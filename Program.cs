@@ -9,9 +9,9 @@ namespace Logicalprograms
         {
             //Console.WriteLine("Hello Logic!!!");
             //PerfectNumber.PerfectNum();
-            //ReverseNumber.Reversenum();
+            ReverseNumber.Reversenum();
             //FibonanciSeries.DisplayFibonanciSeries();
-            PrimeNumber.PrimeN();
+            //PrimeNumber.PrimeN();
            
 
         }
